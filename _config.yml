@@ -1,5 +1,9 @@
 theme: jekyll-theme-cayman
-
-title: KMS.Plus 激活
+plugins:
+- jekyll-remote-theme 
+title: Windows 激活
 
 show_downloads: true
+
+
+
