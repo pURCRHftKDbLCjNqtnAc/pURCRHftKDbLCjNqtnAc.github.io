@@ -2,11 +2,11 @@
 
 ## 激活
 
-### 下载激活脚本
+### 1. 下载激活脚本
 
 ![](https://kms.plus/taitc/1.png)
 
-### 自动激活
+### 2. 自动激活
 
 ![](https://kms.plus/taitc/2.png)
 

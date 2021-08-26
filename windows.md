@@ -2,12 +2,12 @@
 
 ## 装机
 
-### 制作Windows安装盘
+### 1. 制作Windows安装盘
 [Windows 11 USB制作程序](https://baidu.com) （来自[微软官方下载链接](https://microsoft.com)）
 
 ![](https://kms.plus/taitc/w1.png)
 
-### 修改U盘第一启动
+### 2. 修改U盘第一启动
 
 进入BIOS 找到boot选项----
 
@@ -16,7 +16,7 @@
 ![](https://kms.plus/taitc/w2.png)
 
 
-### 重启安装
+### 3. 重启安装
 
 选择安装到原系统盘 
 
@@ -62,6 +62,10 @@
 -----
 # 常见问题
 
-#### 无法
+### 1. 无法
+
+使用  即可
+
+### 2. 无法
 
 使用  即可
