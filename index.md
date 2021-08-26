@@ -4,16 +4,16 @@
 
 ### 1. 下载激活脚本
 
-![](https://kms.plus/staitc/1.png)
+![](https://kms.plus/static/1.png)
 
 ### 2. 自动激活
 
-![](https://kms.plus/staitc/2.png)
+![](https://kms.plus/static/2.png)
 
 
 ## 清除激活
 
-![](https://kms.plus/staitc/3.png)
+![](https://kms.plus/static/3.png)
 
 -----
 
@@ -23,15 +23,15 @@
 
 1. 清除激活
 
-![](https://kms.plus/staitc/3.png)
+![](https://kms.plus/static/3.png)
 
 2. 使用指定安装密钥
 
-![](https://kms.plus/staitc/4.png)
+![](https://kms.plus/static/4.png)
 
 3. 重启
 4. 运行激活脚本 完成自动激活
 
-![](https://kms.plus/staitc/5.png)
+![](https://kms.plus/static/5.png)
 
 ----
