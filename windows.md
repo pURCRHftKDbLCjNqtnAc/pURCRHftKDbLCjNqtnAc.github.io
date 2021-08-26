@@ -5,7 +5,7 @@
 ### 1. 制作Windows安装盘
 [Windows 11 USB制作程序](https://baidu.com) （来自[微软官方下载链接](https://microsoft.com)）
 
-![](https://kms.plus/taitc/w1.png)
+![](https://kms.plus/staitc/w1.png)
 
 ### 2. 修改U盘第一启动
 
@@ -13,7 +13,7 @@
 
 以dell笔记本为例
 
-![](https://kms.plus/taitc/w2.png)
+![](https://kms.plus/staitc/w2.png)
 
 
 ### 3. 重启安装
@@ -22,7 +22,7 @@
 
 ❕选中的盘会被格式化，数据丢失
 
-![](https://kms.plus/taitc/w3.png)
+![](https://kms.plus/staitc/w3.png)
 
 ## 下载地址及密钥
 * 推荐使用windows 10专业版 
