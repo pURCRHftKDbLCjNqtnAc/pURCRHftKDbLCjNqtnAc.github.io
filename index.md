@@ -30,7 +30,9 @@
 ![](https://kms.plus/static/4.png)
 
 3. 重启
-4. 运行激活脚本 完成自动激活
+
+
+5. 运行激活脚本 完成自动激活
 
 ![](https://kms.plus/static/5.png)
 
